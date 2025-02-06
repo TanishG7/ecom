@@ -3,7 +3,7 @@ import Navbar from '../Common/Navbar.jsx'
 
 const Header = () => {
   return (
-    <header>
+    <header className='border-b border-gray-200'>
     <TopBar/>
     <Navbar/>
     </header>
