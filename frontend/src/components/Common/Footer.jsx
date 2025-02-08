@@ -23,19 +23,19 @@ const Footer = () => {
             <div>
                 <h3 className="text-lg text-gray-800 mb-4">Shop</h3>
                 <ul className="space-y-2 text-gray-600">
-                    <li><Link to="#" className="hover:text-gray-600 transition-colors" ></Link>Men's Top Wear</li>
-                    <li><Link to="#" className="hover:text-gray-600 transition-colors" ></Link>Women's Top Wear</li>
-                    <li><Link to="#" className="hover:text-gray-600 transition-colors" ></Link>Men's Bottom Wear</li>
-                    <li><Link to="#" className="hover:text-gray-600 transition-colors" ></Link>Women's Bottom Wear</li>
+                    <li><Link to="#" className="hover:text-gray-600 transition-colors" >Men&#39;s Top Wear</Link></li>
+                    <li><Link to="#" className="hover:text-gray-600 transition-colors" >Women&#39;s Top Wear</Link></li>
+                    <li><Link to="#" className="hover:text-gray-600 transition-colors" >Men&#39;s Bottom Wear</Link></li>
+                    <li><Link to="#" className="hover:text-gray-600 transition-colors" >Women&#39;s Bottom Wear</Link></li>
                 </ul>
             </div>
             <div>
                 <h3 className="text-lg text-gray-800 mb-4">Support</h3>
                 <ul className="space-y-2 text-gray-600">
-                    <li><Link to="#" className="hover:text-gray-600 transition-colors" ></Link>Contact Us</li>
-                    <li><Link to="#" className="hover:text-gray-600 transition-colors" ></Link>About Us</li>
-                    <li><Link to="#" className="hover:text-gray-600 transition-colors" ></Link>FAQs</li>
-                    <li><Link to="#" className="hover:text-gray-600 transition-colors" ></Link>Features</li>
+                    <li><Link to="#" className="hover:text-gray-600 transition-colors" >Contact Us</Link></li>
+                    <li><Link to="#" className="hover:text-gray-600 transition-colors" >About Us</Link></li>
+                    <li><Link to="#" className="hover:text-gray-600 transition-colors" >FAQs</Link></li>
+                    <li><Link to="#" className="hover:text-gray-600 transition-colors" >Features</Link></li>
                 </ul>
             </div>
             <div>
