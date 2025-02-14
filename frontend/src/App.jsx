@@ -18,7 +18,6 @@ const App = () => {
         <Route path='register' element={<Register/>}/>
         <Route path='profile' element={<Profile/>}/>
         <Route path='collections/:collection' element={<Collection/>}/>
-        
       </Route>
     </Routes>
     </BrowserRouter>
