@@ -37,11 +37,6 @@ const FilterSidebar = () => {
           minPrice: params.minPrice || 0,
           maxPrice: params.maxPrice || 100,
         });
-
-        if (params.minPrice && params.maxPrice) {
-            setPriceRange([params.minPrice, params.maxPrice]);
-        }
-
         setSearchParams(params);
         
         setPriceRange
